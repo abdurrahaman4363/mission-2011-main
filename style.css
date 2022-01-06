@@ -1,1 +1,109 @@
+.orange-color{
+    color: orange;
+}
+.red-color{
+    padding: 3%;
+    background-image: linear-gradient(blue,green);
+    color: white;
+    text-decoration: none;
+    border-radius: 2%;
+    text-decoration: none;
+}
+.blog-separate{
+    width: 50%;
+}
+#border{
+    padding-left: 5%;
+    border-left: 3px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
 
+}
+.dis-flex{
+    width: 50%;
+    display: flex;
+    padding: 5%;
+
+}
+.sec-three-flex{
+
+    display: flex;
+    padding: 5%;
+    background-image: url(./images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#text-right{
+    width: 50%;
+    margin: 10px;
+    padding: 5%;
+
+}
+.text-center{
+    text-align: center;
+    padding: 2%;
+}
+.three-div-flex{
+
+    width: 50%;
+    height: 80%;
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+
+
+}
+#div-one-style{
+           
+           padding: 10px;
+           background-color: paleturquoise;
+           margin: 10px;
+           border-radius: 2%;
+}
+#div-two-style{
+        
+         padding: 10px;
+         background-color: papayawhip;
+         border-radius: 2%;
+         margin: 10px;
+}
+#div-three-style{ 
+        
+        padding: 10px;
+        background-color: thistle;
+        margin: 10px;
+        border-radius: 2%;
+}
+
+.bg-img{
+
+    display: flex;
+    
+    padding: 5%;
+    background-image: url(./images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#pic-sep{
+    padding: 5%;
+    margin: 0;
+}
+.corona-flex{
+    
+    display: flex;
+    padding: 3%;
+}
+#padd-div{
+    padding: 5%;
+    margin: 10%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 2%;
+}
+#footer-color{
+    color: tomato;
+}
